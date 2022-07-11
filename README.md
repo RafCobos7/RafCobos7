@@ -25,4 +25,4 @@ Currently looking to improve my education in the field of business through inter
 
 ### Socials
 
-<p align="left"> <a href="www.linkedin.com/in/rafael-cobos-3369441b1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="www.linkedin.com/in/rafael-cobos" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
